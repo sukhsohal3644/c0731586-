@@ -10,6 +10,9 @@ namespace c0731586
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
+
         }
     }
 }
